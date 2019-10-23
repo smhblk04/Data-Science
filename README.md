@@ -1,6 +1,5 @@
-# Data-Science
+# For the GROUP PROJECT SUBSECTION:
 Sabanci University CS210 Course (Spring 2018 - 2019)
-For the GROUP PROJECT SUBSECTION:
 
 Group Members:
 -Fatih Talay
