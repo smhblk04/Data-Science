@@ -1,0 +1,22 @@
+Group Members:
+-Dilara Girgin
+-Fatih Talay
+-Semih Balki
+
+Link of the Blog: https://cs210ukcaraccidents.wordpress.com
+
+Link of the Evaluation blog: https://cs210ukcaraccidents.wordpress.com/2019/05/19/project-evaluation/
+
+Link to view code and graphs(Python code at Jupyter): 
+https://nbviewer.jupyter.org/gist/smhblk04/5637a8fcc4c42cb8ef86b0957cc96670
+
+Link of the website that we found data:
+https://www.kaggle.com/arvidzt/data-exploration-of-uk-car-accident/data
+
+Data Sets that we used:
+-Accidents0515.csv
+-Casualties0515.csv
+
+Note that: We will not submit the data, you could extract from the website link mentioned above. Since it is about 352mb so probably takes time to submit.
+
+
